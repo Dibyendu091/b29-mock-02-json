@@ -2,7 +2,45 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Tommy"
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "name": "Cherry",
+      "age": 3,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Cherry",
+      "age": 3,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "name": "Cherry",
+      "age": 3,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     }
   ]
 }
