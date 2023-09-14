@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Dibyendu091/b29-mock-02-json#readme",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
   }
 }
